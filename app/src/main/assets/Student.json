@@ -1,0 +1,127 @@
+[
+  {
+    "UserLoginID": "1",
+    "UserName": "Jay",
+    "Department": "MCA"
+  },
+  {
+    "UserLoginID": "2",
+    "UserName": "Adnan",
+    "Department": "Bsc IT"
+  },
+  {
+    "UserLoginID": "3",
+    "UserName": "BA1",
+    "Department": "BA"
+  },
+  {
+    "UserLoginID": "4",
+    "UserName": "Abhishek",
+    "Department": "MCA"
+  },
+  {
+    "UserLoginID": "5",
+    "UserName": "Naveen",
+    "Department": "Bsc IT"
+  },
+  {
+    "UserLoginID": "6",
+    "UserName": "BA2",
+    "Department": "BA"
+  },
+  {
+    "UserLoginID": "7",
+    "UserName": "Aravind",
+    "Department": "MCA"
+  },
+  {
+    "UserLoginID": "8",
+    "UserName": "Tushar",
+    "Department": "Bsc IT"
+  },
+  {
+    "UserLoginID": "9",
+    "UserName": "BA3",
+    "Department": "BA"
+  },
+  {
+    "UserLoginID": "10",
+    "UserName": "Dilip",
+    "Department": "MCA"
+  },
+  {
+    "UserLoginID": "11",
+    "UserName": "Aniket",
+    "Department": "Bsc IT"
+  },
+  {
+    "UserLoginID": "12",
+    "UserName": "BA4",
+    "Department": "BA"
+  },
+  {
+    "UserLoginID": "13",
+    "UserName": "Sanju",
+    "Department": "MCA"
+  },
+  {
+    "UserLoginID": "14",
+    "UserName": "Latika",
+    "Department": "Bsc IT"
+  },
+  {
+    "UserLoginID": "15",
+    "UserName": "BA5",
+    "Department": "BA"
+  },
+  {
+    "UserLoginID": "16",
+    "UserName": "Amol",
+    "Department": "MCA"
+  },
+  {
+    "UserLoginID": "17",
+    "UserName": "Pradnya",
+    "Department": "Bsc IT"
+  },
+  {
+    "UserLoginID": "18",
+    "UserName": "BA6",
+    "Department": "BA"
+  },
+  {
+    "UserLoginID": "19",
+    "UserName": "Rahul",
+    "Department": "Office"
+  },
+  {
+    "UserLoginID": "20",
+    "UserName": "Ajay",
+    "Department": "Office"
+  },
+  {
+    "UserLoginID": "21",
+    "UserName": "Sonali",
+    "Department": "Office"
+  },
+  {
+    "UserLoginID": "21",
+    "UserName": "Amol",
+    "Department": "Office"
+  },
+  {
+    "UserLoginID": "22",
+    "UserName": "Reema",
+    "Department": "Office"
+  },
+  {
+    "UserLoginID": "23",
+    "UserName": "Komal",
+    "Department": "Office"
+  },
+  {
+    "UserLoginID": "24",
+    "UserName": "Kartiki",
+    "Department": "Office"
+  }
+]
