@@ -14,7 +14,7 @@ app/src/main/java/com/example/jay/recyclerviewcheckbox5727/ <br />
  Responsible for loading dummy data from Students.json present inside assets folder. <br/> Source can be REST API also depending on requirement.
 
 ## StudentAdapter ##
-     DataSource for RecyclerView.
+   DataSource for RecyclerView.
 
 ## StudentModel ##	
 		
