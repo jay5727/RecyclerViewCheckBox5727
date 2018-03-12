@@ -19,7 +19,7 @@ app/src/main/java/com/example/jay/recyclerviewcheckbox5727/ <br />
 An adapter manages the data model and adapts it to the individual entries in the widget. 
 
 It extends the RecyclerView.Adapter class and is assigned to the recycler view via the RecyclerView.setAdapter method from Activity/Fragment.
-The input to the adapter of an recycler view can be any List<T> where T can be any model class itself. 
+The input to the adapter of an recycler view can be any List ![](http://latex.codecogs.com/gif.latex?%3CT%3E) where T can be any model class itself. 
 
 Based on this input the adapter must return the total number of items via its **getItemCount()** method.
 
@@ -32,7 +32,7 @@ This instance is used to access the views in the inflated layout.
 The **onCreateViewHolder** method is only called then a new view must be created.
 
 Once a data item becomes visible, the adapter assigns this data to the individual widgets. 
-This work in done in the **onBindViewHolder** method.
+This work is done in the **onBindViewHolder** method.
 
 ## StudentModel ##	
 Data Source for RecyclerView. <br />		
